@@ -19,7 +19,7 @@
     const CONFIG = {
         preferredAudioLanguage: 'jpn',  // Japanisch
         preferredSubtitleLanguage: 'ger', // Deutsch
-        preferredVersionKeywords: ['japan', 'jpn', 'japanese', 'jap'], // Keywords für japanische Version
+        preferredVersionKeywords: ['japan', 'jpn', 'japanese', 'jap', 'German Sub'], // Keywords für japanische Version
         checkInterval: 1000, // Prüfintervall in ms
         versionSwitchDelay: 1500, // Wartezeit nach Versionswechsel
         debug: true
